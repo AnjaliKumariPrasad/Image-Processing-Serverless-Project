@@ -10,7 +10,7 @@ Images uploaded to an S3 bucket automatically trigger a Lambda function that pro
 
 ## 🏗️ Architecture
 
-![AWS Serverless Image Processing Architecture](architecture.png)
+![AWS Serverless Image Processing Architecture](./architecture.png)
 
 ### Workflow
 
