@@ -1,5 +1,4 @@
 
-```markdown
 # 🖼️ Serverless Image Processing on AWS
 
 A serverless, event-driven image processing system built with **AWS Lambda, Amazon S3, Terraform, Docker, and Python**.
